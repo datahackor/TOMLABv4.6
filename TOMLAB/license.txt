@@ -1,0 +1,187 @@
+TOMLAB WORLD WIDE LICENSE AGREEMENT
+
+Pursuant to this Agreement, you may (a) use the programs on a single
+computer, if your license is a single user license (b) use the
+programs on multiple computers, as defined by the license file. (c)
+copy the programs onto any computer in readable or printed form for
+back-up or modification purposes in support of your use of the
+programs. (d) modify the programs and/or merge them into another
+program for your use on the computers defined by your license file.
+
+Any portion of these programs merged into another program will
+continue to be subject to the terms and conditions of this
+Agreement. You may not transfer any part of this software to third
+part.
+
+You may not use, copy, modify, disassemble, decompile, reverse
+engineer or transfer the programs or any copy, modification, or merged
+portion, in whole or in part, except as expressly provided for this
+Agreement. If you transfer possession of any copy, modification or
+merged portion of the program to another party, your license is
+automatically terminated.
+
+COPYRIGHT
+
+All intellectual property rights in the TOMLAB Optimization Environment
+and user documentation are owned by Tomlab Optimization AB or its
+suppliers and are protected by applicable intellectual property laws
+and international treaty provisions. Tomlab Optimization AB and its
+suppliers retain all rights not expressly granted.
+
+TERM
+
+The license is effective unless rejected or until terminated. The
+license is terminated if you fail to comply with any term or condition
+of this Agreement. You agree upon such termination to destroy the
+programs together with all copies, modifications and merged portions
+in any form.
+
+LIMITED WARRANTY AND REMEDIES
+
+The software is normally distributed using Internet downloads and
+licenses sent by attached E-mail. Tomlab Optimization AB warrants that
+the user will receive error free copies of the software and license,
+and will replace any damaged files by use of available media. Except
+as expressly set forth above, no other warranties, either express or
+implied, are made with respect to these programs, including but not
+limited to the implied warranties of merchant ability and fitness for
+a particular purpose and Tomlab Optimization AB and its suppliers
+expressly disclaim all warranties not stated herein. You assume the
+entire risk as to the quality, use and performance of the
+programs. Should the programs prove defective, you - and not Tomlab
+Optimization AB or its suppliers or an authorized reseller - assume
+the entire cost of necessary servicing, repair or correction.
+
+Your sole remedies and the entire liability of Tomlab Optimization AB
+and its suppliers are set forth above. In no event will Tomlab
+Optimization AB and its suppliers be liable to you or any other person
+for any damage, including any incidental or consequental damages,
+expenses, lost profits, lost savings or other damages arising out of
+use of or inability to use such programs.
+
+GENERAL
+
+You may not sublicense, assign or transfer the license or any programs
+except as expressly provided in this Agreement. Any attempt to
+otherwise sublicense, assign, or transfer any of the rights, duties or
+obligations hereunder is null and void. This Agreement will be
+governed by the laws of Sweden.
+
+EDUCATIONAL INSTITUTIONS
+
+The right to use the programs for commercial purposes is expressly
+excluded.
+
+MAINTENANCE AND SUPPORT
+
+During any paid maintenance and support period, Tomlab Optimization AB
+shall: deliver license files that works for the set of users and
+machines defined by the license, and license files working for any new
+releases of the programs; through Internet downloads deliver
+subsequent releases of the programs which are not charged for
+separately; exert reasonable efforts to both (a) provide workarounds
+for any material programming errors in the current release of the
+program which are directly attributable to Tomlab Optimization AB
+within reasonable time, and (b) correct such errors in the next
+available release, provided Licensee provides Tomlab Optimization AB
+with sufficient information to identify the problems. During this same
+paid maintenance and support subscription period, Licensee shall also
+be entitled to receive technical support by electronic mail, telephone
+and telefax regarding the installation and/or use of the licensed
+programs and their interaction with hardware, operating environments,
+and other software products. Tomlab Optimization AB reserves the
+option to discontinue offering maintenance and support descriptions
+for any program or platform.
+
+The paid maintenance and support period starts after the 30 day free
+maintenance and support period included in the initial license
+price.
+
+TERMINATION OF MAINTENANCE AND SUPPORT
+
+Tomlab Optimization AB may terminate this license grant, by written or
+electronic mail notice notice to Licensee if Licensee breaches any
+material term of this license, including failure to pay any license
+fees due, and Licensee has not cured such breach within (60) days of
+written notification. Licensee may terminate this license at any time,
+for any reason. Licensee shall not be entitled to any refund if this
+license is terminated.
+
+You acknowledge that you have read this Agreement, understand it, and
+agree to be bound by its terms and conditions; You further agree it is
+the complete and exclusive statement of the agreement between us that
+supersedes any proposal or prior agreement, oral or written and any
+other communications between us relating to this subject matter of
+this Agreement.
+
+
+THE FOLLOWING SECTIONS APPLY TO USERS OF TOMLAB /SOCS, TOMLAB /BARNLP
+AND TOMLAB /SPRNLP (The Software):
+
+OWNERSHIP AND PROPRIETARY NATURE OF SOFTWARE
+The Software provided under this License Agreement is owned by The Boeing
+Company.  Except for those rights in the Software specifically granted
+under this License Agreement, no rights in the Software are granted to
+Licensee, including, but not limited to, the right to further sublicense
+or distribute copies of the Software to any third party, the right to
+modify or otherwise make derivative works based on the Software, or the
+right to reverse compile or reverse assemble the object code into source
+code, or in any other way attempt to discover the source code for the
+Software.
+
+The Software in source code form is the proprietary, confidential and/or
+trade secret information of The Boeing Company or its suppliers.  If the
+source code becomes known to Licensee in any manner, Licensee shall
+preserve the source code in confidence, and shall not disclose the source
+code to any third parties.
+
+NEITHER THE BOEING COMPANY NOR ANY OF ITS SUBSIDIARIES OR SUPPLIERS AND/OR
+DISTRIBUTOR MAKE ANY WARRANTY OR REPRESENTATION WITH RESPECT TO ANY SOFTWARE,
+DOCUMENTATION OR ANY OTHER GOODS OR SERVICES PROVIDED UNDER OR IN CONNECTION
+WITH THIS AGREEMENT, AND SHALL NOT BE LIABLE FOR ANY LOSS OF PROFIT, REVENUE
+OR USE OR FOR ANY CONSEQUENTIAL, DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+PUNITIVE, OR EXEMPLARY DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT,
+WHETHER BASED ON CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO, STRICT
+LIABILITY AND NEGLIGENCE), WARRANTY OR OTHER LEGAL OR EQUITABLE GROUNDS.
+
+RIGHTS OF USE
+
+Licensor grants to Licensee a non-exclusive, non-transferable license to use
+the Software, in object code form only, solely for Licensee's own internal
+use, for the number of seats purchased, in [Country] at the location
+designated in this Agreement.  "Own internal use" shall not include use of
+the Software in a remote computing service business or any other arrangement
+where the Software, or use thereof, may be sold, sublicensed or otherwise
+provided to third parties.
+
+COMPLIANCE WITH EXPORT LAWS
+It is agreed that Licensee or its Sublicensees will not knowingly, directly
+or indirectly, export or re-export the Licensed Program, Program Product,
+copies, or Documentation, or any part thereof, except in compliance with the
+laws and regulations of the United States and its Departments and Agencies
+relating to the export of software and technical data.  Boeing will reasonably
+cooperate with Licensee regarding export matters.  Licensee agrees to indemnify
+Boeing against civil fines or penalties arising out of any violations of
+export laws or regulations pertinent to this Agreement.
+
+LIMITATION OF LIABILITY
+EXCEPT FOR CLAIMS FOR PERSONAL INJURY, IN NO EVENT SHALL THE BOEING COMPANY,
+OR ANY SUBSIDIARY OR SUPPLIER THEREOF, HAVE ANY LIABILITY, WHETHER BASED ON
+CONTRACT, TORT (INCLUDING WITHOUT LIMITATION NEGLIGENCE AND STRICT LIABILITY),
+WARRANTY OR ANY OTHER LEGAL OR EQUITABLE GROUNDS, FOR ANY LOSS OF USE, PROFIT
+OR REVENUE BY LICENSEE, OR FOR ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL, SPECIAL,
+PUNITIVE OR EXEMPLARY DAMAGES INCURRED OR SUFFERED BY LICENSEE ARISING OUT
+OF OR RELATED TO THIS AGREEMENT, EVEN IF THE BOEING COMPANY, OR ANY SUBSIDIARY
+OR SUPPLIER THEREOF, HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR
+DAMAGES.
+
+LIMITATION OF REMEDY
+EXCEPT FOR CLAIMS FOR PERSONAL INJURY, INCLUDING DEATH, OR PHYSICAL LOSS OR
+DAMAGE TO REAL OR TANGIBLE PERSONAL PROPERTY CAUSED BY THE NEGLIGENCE OF THE
+BOEING COMPANY OR ANY OF ITS SUBSIDIARIES, LICENSEE AGREES THAT THE TOTAL
+LIABILITY OF THE BOEING COMPANY AND ALL OF ITS SUBSIDIARIES OR SUPPLIERS,
+FOR ALL CLAIMS OF ANY KIND ARISING AS A RESULT OF, OR RELATED TO THIS
+AGREEMENT, WHETHER BASED ON CONTRACT, TORT (INCLUDING WITHOUT LIMITATION
+STRICT LIABILITY AND NEGLIGENCE), WARRANTY OR ON OTHER LEGAL OR EQUITABLE
+GROUNDS, SHALL BE LIMITED TO GENERAL MONEY DAMAGES AND SHALL NOT EXCEED
+THE AMOUNT PAID TO BOEING BY LICENSOR AS A RESULT OF THIS AGREEMENT.
